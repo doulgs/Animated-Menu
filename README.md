@@ -1,7 +1,6 @@
-
 # Menu Animado 
 
-Menu animado desenvolvido com HTML, CSS e Javascript com o intuito de treinar meus conhecimentos 
+Menu animado desenvolvido com o intuito de treinar meus conhecimentos 
 
 
 ## Stack utilizada
